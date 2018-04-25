@@ -1,1 +1,1 @@
-web: gunicorn flaskr:manage.py
+web: gunicorn hello:app
